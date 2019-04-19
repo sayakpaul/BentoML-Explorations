@@ -1,0 +1,6 @@
+service_name: PassengerClassifier
+service_version: 0.0.v0.0.1
+module_name: passenger_classifier
+module_file: passenger_classifier.py
+created_at: 2019-04-19 11:55:30.359588
+bentoml_version: 0.0.9
