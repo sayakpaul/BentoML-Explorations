@@ -1,0 +1,6 @@
+service_name: TextClassificationService
+service_version: 0.0.2019_04_22_e5d9f7d0
+module_name: text_classification_service
+module_file: text_classification_service.py
+created_at: 2019-04-22 08:38:56.457642
+bentoml_version: 0.0.9
